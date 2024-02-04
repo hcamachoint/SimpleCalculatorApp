@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">SimpleCalculator</string>
+    <string name="app_name">SimpleCalculatorApp</string>
     <string name="calc_text"></string>
     <string name="_7">7</string>
     <string name="_8">8</string>
